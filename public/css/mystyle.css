@@ -1,0 +1,25 @@
+.container table tbody tr td input {
+    width: auto;
+    max-width: 100px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .container table tfoot tr td input {
+    width: auto;
+    max-width: 150px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .container table thead tr td input {
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .hapus{
+    border-radius: 5px;
+    color: white
+  }
+  .detail{
+    border-radius: 5px;
+    color: white;
+  }

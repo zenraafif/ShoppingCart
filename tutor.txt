@@ -1,0 +1,4 @@
+<tr><td><input type="text" name="part[]" placeholder="Part"></td><td><input type="text" name="merk[]" placeholder="Merk"></td><td><input type="text" name="serial[]" placeholder="No Serial"></td><td><input type="number" class="product_quantities" id="qty" name="jumlah[]" placeholder="Jumlah"></td><td><input type="number" class="price" id="price" name="price[]" placeholder="Harga"></td><td><input type="text" class="subtotal amount" id="subtotal" name="subtotal[]" placeholder="Sub Total" value=""></td><td><input type="button" name="" value="Hapus" onclick="deleteRow(this);totalamount();" ></td></tr>
+
+master : id, id pembayaran, total
+detail : 
